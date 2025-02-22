@@ -1,5 +1,5 @@
 const head = function(arr) {
-  return arr[0]; // Return the first element of the array
+  return arr[0]; 
 };
 
 const assertEqual = function(actual, expected) {
