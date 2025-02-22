@@ -12,7 +12,3 @@ const assertEqual = function(actual, expected) {
 assertEqual("Lighthouse Labs", "Bootcamp");
 assertEqual(1, 1);
 
-// if (actual !== expected) {
-//   console.log("❌❌❌Assertion Failed: " + actual + "!==" + expected)
-//   return
-// }
